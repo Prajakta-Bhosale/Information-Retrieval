@@ -1,0 +1,77 @@
+{
+  "platform": "eBay",
+  "data_collection_date": "2024-08-09",
+  "total_reviews": 5,
+  "reviews": [
+    {
+      "review_id": 2,
+      "platform": "eBay",
+      "customer_id": "CUST_22704",
+      "product_id": "PROD_8062",
+      "sentiment_label": "negative",
+      "star_rating": 1,
+      "review_title": "Review for Clothing product",
+      "review_content": "This online clothing purchase was a complete disaster from start to finish. The dress I ordered looked nothing like the photos on the website. The color was completely different - I ordered navy blue but received something closer to black with a greenish tint. The fabric quality is absolutely terrible, feeling cheap and scratchy against the skin. It seems like it would fall apart after just one wash. The sizing is completely wrong despite following their size chart exactly. I ordered a medium based on their measurements, but what arrived was either an extra small or poorly cut. The stitching is uneven and sloppy with loose threads everywhere. Several seams were already coming apart right out of the package. The return process has been a nightmare. Their customer service is unresponsive and unhelpful. I've sent three emails over two weeks with no meaningful response, just automated replies. The return policy on their website is confusing and seems designed to discourage returns. They want me to pay for return shipping on a defective product, which is completely unreasonable. This company clearly doesn't care about customer satisfaction or product quality. I feel like I wasted my money and time dealing with this mess. Would never recommend this seller to anyone and will be leaving negative reviews everywhere possible to warn other potential customers.",
+      "review_date": "2024-06-14",
+      "verified_buyer": false,
+      "location": "Australia",
+      "sentiment_score": 0.7910693986956826
+    },
+    {
+      "review_id": 7,
+      "platform": "eBay",
+      "customer_id": "CUST_17100",
+      "product_id": "PROD_2612",
+      "sentiment_label": "negative",
+      "star_rating": 1,
+      "review_title": "Review for Health product",
+      "review_content": "Terrible experience with both the product and the seller's customer service department. What arrived was completely different from what was advertised, with lower quality materials and missing features that were clearly shown in product photos. The item stopped working properly within days of arrival, suggesting poor manufacturing standards and lack of quality testing. Attempts to resolve these issues through customer support have been met with delays, excuses, and refusal to offer reasonable solutions. The seller seems more interested in making sales than ensuring customer satisfaction or standing behind their products. Shipping was slow and communication was poor throughout the process. This has been one of my worst online shopping experiences, and I strongly advise others to look elsewhere. Product ID: 7912. Order Date: 2024-01-01. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-01-13",
+      "verified_buyer": false,
+      "location": "USA",
+      "sentiment_score": 0.2989250671362285
+    },
+    {
+      "review_id": 12,
+      "platform": "eBay",
+      "customer_id": "CUST_34931",
+      "product_id": "PROD_9786",
+      "sentiment_label": "positive",
+      "star_rating": 5,
+      "review_title": "Review for Food product",
+      "review_content": "Outstanding product quality and excellent customer service made this purchase worthwhile. The item exceeded expectations in every aspect from build quality to functionality. Shipping was fast and packaging was secure, protecting the item perfectly during transport. The company clearly cares about customer satisfaction, as evidenced by their prompt responses to questions and helpful product information. Features work exactly as advertised, with intuitive design making it easy to use right out of the box. Value for money is excellent considering the quality and durability. Will definitely recommend to friends and family, and plan to purchase more items from this seller in the future. Five stars well deserved! Product ID: 8527. Order Date: 2024-09-04. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-08-05",
+      "verified_buyer": false,
+      "location": "Canada",
+      "sentiment_score": 0.7114180578667761
+    },
+    {
+      "review_id": 17,
+      "platform": "eBay",
+      "customer_id": "CUST_42742",
+      "product_id": "PROD_2235",
+      "sentiment_label": "negative",
+      "star_rating": 1,
+      "review_title": "Review for Health product",
+      "review_content": "Extremely disappointed with this purchase and the poor customer service experience that followed. The product quality is substandard with cheap materials and sloppy construction that became apparent immediately upon inspection. Several features don't work as advertised, making the item practically useless for its intended purpose. The seller's description was misleading and didn't accurately represent what was actually delivered. Shipping took much longer than promised, with no communication about delays or tracking updates. When I contacted customer service about these issues, they were unhelpful and defensive rather than offering solutions. Return process is complicated and expensive, adding insult to injury. This experience has been frustrating and costly, making me regret choosing this seller. Product ID: 8573. Order Date: 2024-07-09. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-08-26",
+      "verified_buyer": true,
+      "location": "USA",
+      "sentiment_score": 0.6217159151988176
+    },
+    {
+      "review_id": 22,
+      "platform": "eBay",
+      "customer_id": "CUST_80855",
+      "product_id": "PROD_1241",
+      "sentiment_label": "positive",
+      "star_rating": 4,
+      "review_title": "Review for Books product",
+      "review_content": "Fantastic product that has completely met my needs and expectations in every possible way. The quality of materials and craftsmanship is evident from the moment you handle it. Features are well-designed and user-friendly, making daily use a pleasure rather than a chore. The seller provided excellent communication throughout the order process, including shipping updates and delivery confirmation. Product performance has been consistent and reliable over extended use, proving its durability and value. Customer service responded quickly to a minor question I had, demonstrating their commitment to customer satisfaction. This purchase has saved me time and improved my daily routine significantly. Highly recommended to anyone considering this type of product. Product ID: 9085. Order Date: 2024-02-25. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-02-25",
+      "verified_buyer": true,
+      "location": "Canada",
+      "sentiment_score": 0.7625656231809887
+    }
+  ]
+}

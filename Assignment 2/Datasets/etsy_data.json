@@ -1,0 +1,77 @@
+{
+  "platform": "Etsy",
+  "data_collection_date": "2024-08-09",
+  "total_reviews": 5,
+  "reviews": [
+    {
+      "review_id": 4,
+      "platform": "Etsy",
+      "customer_id": "CUST_84668",
+      "product_id": "PROD_5033",
+      "sentiment_label": "negative",
+      "star_rating": 2,
+      "review_title": "Review for Handmade product",
+      "review_content": "I had high hopes for this handmade jewelry purchase, but the experience turned out to be incredibly disappointing and frustrating. The artisan's shop had beautiful photos and glowing reviews, which convinced me to place a custom order for a wedding gift. The communication started well, with prompt responses to my initial questions about customization options and timeline. However, things went downhill quickly after I placed the order and made payment. The promised delivery time was three weeks, but the item didn't arrive until seven weeks later, just days before the wedding. The seller was unresponsive during this waiting period, ignoring my messages asking for updates on the progress. When the jewelry finally arrived, the quality was nowhere near what was advertised or shown in photos. The metalwork looked amateurish with visible flaws and uneven surfaces. The gemstone was clearly a different quality than described, appearing cloudy instead of the brilliant clarity promised. The overall craftsmanship seemed rushed and careless, not worthy of the premium price I paid. The packaging was minimal and unprofessional, arriving in a plain envelope rather than proper jewelry presentation box. Given that this was supposed to be a special wedding gift, I was embarrassed to present it. Attempts to contact the seller about the quality issues have been met with defensive responses and refusal to offer any resolution. This experience has made me hesitant to purchase handmade items online again.",
+      "review_date": "2024-10-20",
+      "verified_buyer": true,
+      "location": "USA",
+      "sentiment_score": 0.435379932268698
+    },
+    {
+      "review_id": 9,
+      "platform": "Etsy",
+      "customer_id": "CUST_86503",
+      "product_id": "PROD_9565",
+      "sentiment_label": "negative",
+      "star_rating": 1,
+      "review_title": "Review for Toys product",
+      "review_content": "Poor quality product that fails to meet even basic expectations for functionality and durability. The item arrived damaged with visible defects that should have been caught during quality control. Materials feel cheap and flimsy, giving the impression they won't last long with regular use. Instructions were unclear and poorly translated, making setup unnecessarily difficult and time-consuming. Multiple attempts to contact the seller about these problems have been ignored or met with unhelpful responses. The return policy is restrictive and seems designed to discourage customers from seeking refunds. This purchase has been a complete waste of money and time. Would not recommend this seller or product to anyone. Product ID: 5557. Order Date: 2024-01-25. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-06-09",
+      "verified_buyer": true,
+      "location": "UK",
+      "sentiment_score": 0.29094876209267684
+    },
+    {
+      "review_id": 14,
+      "platform": "Etsy",
+      "customer_id": "CUST_61876",
+      "product_id": "PROD_3144",
+      "sentiment_label": "positive",
+      "star_rating": 4,
+      "review_title": "Review for Electronics product",
+      "review_content": "Incredibly impressed with this purchase and the overall shopping experience from this vendor. The product arrived exactly as described with premium materials and attention to detail that's rare these days. Installation or setup was straightforward with clear instructions provided. Performance has been flawless over several months of regular use, demonstrating reliability and quality construction. Customer support team was knowledgeable and helpful when I had pre-purchase questions. The price point is competitive for this level of quality, making it an excellent value proposition. Delivery was prompt and the item was packaged professionally to prevent damage. This company has earned my loyalty and trust through this positive experience. Product ID: 2307. Order Date: 2024-04-28. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-11-21",
+      "verified_buyer": false,
+      "location": "Australia",
+      "sentiment_score": 0.7264708785087416
+    },
+    {
+      "review_id": 19,
+      "platform": "Etsy",
+      "customer_id": "CUST_19508",
+      "product_id": "PROD_1152",
+      "sentiment_label": "negative",
+      "star_rating": 2,
+      "review_title": "Review for Toys product",
+      "review_content": "Extremely disappointed with this purchase and the poor customer service experience that followed. The product quality is substandard with cheap materials and sloppy construction that became apparent immediately upon inspection. Several features don't work as advertised, making the item practically useless for its intended purpose. The seller's description was misleading and didn't accurately represent what was actually delivered. Shipping took much longer than promised, with no communication about delays or tracking updates. When I contacted customer service about these issues, they were unhelpful and defensive rather than offering solutions. Return process is complicated and expensive, adding insult to injury. This experience has been frustrating and costly, making me regret choosing this seller. Product ID: 4456. Order Date: 2024-10-23. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-08-20",
+      "verified_buyer": true,
+      "location": "USA",
+      "sentiment_score": 0.5301075232813018
+    },
+    {
+      "review_id": 24,
+      "platform": "Etsy",
+      "customer_id": "CUST_76307",
+      "product_id": "PROD_5345",
+      "sentiment_label": "positive",
+      "star_rating": 5,
+      "review_title": "Review for Clothing product",
+      "review_content": "Incredibly impressed with this purchase and the overall shopping experience from this vendor. The product arrived exactly as described with premium materials and attention to detail that's rare these days. Installation or setup was straightforward with clear instructions provided. Performance has been flawless over several months of regular use, demonstrating reliability and quality construction. Customer support team was knowledgeable and helpful when I had pre-purchase questions. The price point is competitive for this level of quality, making it an excellent value proposition. Delivery was prompt and the item was packaged professionally to prevent damage. This company has earned my loyalty and trust through this positive experience. Product ID: 8668. Order Date: 2024-09-09. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-03-12",
+      "verified_buyer": true,
+      "location": "Canada",
+      "sentiment_score": 0.7478108354955536
+    }
+  ]
+}

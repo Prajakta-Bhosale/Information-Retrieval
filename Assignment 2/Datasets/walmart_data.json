@@ -1,0 +1,77 @@
+{
+  "platform": "Walmart",
+  "data_collection_date": "2024-08-09",
+  "total_reviews": 5,
+  "reviews": [
+    {
+      "review_id": 5,
+      "platform": "Walmart",
+      "customer_id": "CUST_30676",
+      "product_id": "PROD_8179",
+      "sentiment_label": "positive",
+      "star_rating": 5,
+      "review_title": "Review for Grocery product",
+      "review_content": "The online grocery delivery service has been an absolute game-changer for my busy family lifestyle and weekly shopping routine. As a working parent with limited time, this service has saved me countless hours and stress. The website and mobile app are intuitive and easy to navigate, making it simple to find items and build shopping lists. The product selection is comprehensive, including fresh produce, organic options, and specialty items that are sometimes hard to find in physical stores. I was initially concerned about the quality of fresh items like fruits, vegetables, and dairy products, but the shoppers consistently choose high-quality items with good expiration dates. The personal shoppers are clearly trained well and often make smart substitutions when items are unavailable, always asking permission first through the app. Delivery is reliable and punctual, with drivers being professional and courteous. The contactless delivery option has been perfect for our family's needs. Prices are competitive with in-store shopping, and the delivery fee is reasonable considering the time and convenience it provides. The ability to track orders in real-time and communicate with shoppers is fantastic. Customer service has been excellent on the few occasions I've needed to report issues - they respond quickly and resolve problems fairly. This service has made grocery shopping stress-free and allowed me to spend more quality time with my family instead of wandering through crowded stores.",
+      "review_date": "2024-09-23",
+      "verified_buyer": false,
+      "location": "USA",
+      "sentiment_score": 0.8671452814850333
+    },
+    {
+      "review_id": 10,
+      "platform": "Walmart",
+      "customer_id": "CUST_82692",
+      "product_id": "PROD_5905",
+      "sentiment_label": "positive",
+      "star_rating": 5,
+      "review_title": "Review for Toys product",
+      "review_content": "Incredibly impressed with this purchase and the overall shopping experience from this vendor. The product arrived exactly as described with premium materials and attention to detail that's rare these days. Installation or setup was straightforward with clear instructions provided. Performance has been flawless over several months of regular use, demonstrating reliability and quality construction. Customer support team was knowledgeable and helpful when I had pre-purchase questions. The price point is competitive for this level of quality, making it an excellent value proposition. Delivery was prompt and the item was packaged professionally to prevent damage. This company has earned my loyalty and trust through this positive experience. Product ID: 3547. Order Date: 2024-04-25. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-11-04",
+      "verified_buyer": true,
+      "location": "UK",
+      "sentiment_score": 0.6461714681676408
+    },
+    {
+      "review_id": 15,
+      "platform": "Walmart",
+      "customer_id": "CUST_24029",
+      "product_id": "PROD_3546",
+      "sentiment_label": "negative",
+      "star_rating": 2,
+      "review_title": "Review for Toys product",
+      "review_content": "Poor quality product that fails to meet even basic expectations for functionality and durability. The item arrived damaged with visible defects that should have been caught during quality control. Materials feel cheap and flimsy, giving the impression they won't last long with regular use. Instructions were unclear and poorly translated, making setup unnecessarily difficult and time-consuming. Multiple attempts to contact the seller about these problems have been ignored or met with unhelpful responses. The return policy is restrictive and seems designed to discourage customers from seeking refunds. This purchase has been a complete waste of money and time. Would not recommend this seller or product to anyone. Product ID: 6977. Order Date: 2024-03-12. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-05-10",
+      "verified_buyer": true,
+      "location": "UK",
+      "sentiment_score": 0.2628778498619624
+    },
+    {
+      "review_id": 20,
+      "platform": "Walmart",
+      "customer_id": "CUST_93130",
+      "product_id": "PROD_5325",
+      "sentiment_label": "positive",
+      "star_rating": 5,
+      "review_title": "Review for Books product",
+      "review_content": "Incredibly impressed with this purchase and the overall shopping experience from this vendor. The product arrived exactly as described with premium materials and attention to detail that's rare these days. Installation or setup was straightforward with clear instructions provided. Performance has been flawless over several months of regular use, demonstrating reliability and quality construction. Customer support team was knowledgeable and helpful when I had pre-purchase questions. The price point is competitive for this level of quality, making it an excellent value proposition. Delivery was prompt and the item was packaged professionally to prevent damage. This company has earned my loyalty and trust through this positive experience. Product ID: 8517. Order Date: 2024-03-09. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-09-16",
+      "verified_buyer": false,
+      "location": "USA",
+      "sentiment_score": 0.6369193870850933
+    },
+    {
+      "review_id": 25,
+      "platform": "Walmart",
+      "customer_id": "CUST_65518",
+      "product_id": "PROD_5533",
+      "sentiment_label": "negative",
+      "star_rating": 1,
+      "review_title": "Review for Electronics product",
+      "review_content": "Terrible experience with both the product and the seller's customer service department. What arrived was completely different from what was advertised, with lower quality materials and missing features that were clearly shown in product photos. The item stopped working properly within days of arrival, suggesting poor manufacturing standards and lack of quality testing. Attempts to resolve these issues through customer support have been met with delays, excuses, and refusal to offer reasonable solutions. The seller seems more interested in making sales than ensuring customer satisfaction or standing behind their products. Shipping was slow and communication was poor throughout the process. This has been one of my worst online shopping experiences, and I strongly advise others to look elsewhere. Product ID: 9797. Order Date: 2024-05-25. Verified Purchase. Additional details: This item was purchased after extensive research and comparison shopping. The brand reputation and previous customer reviews influenced my decision. Delivery location was residential address with standard shipping selected.",
+      "review_date": "2024-01-01",
+      "verified_buyer": false,
+      "location": "Canada",
+      "sentiment_score": 0.6096907018411037
+    }
+  ]
+}
